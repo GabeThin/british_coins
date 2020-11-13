@@ -14,3 +14,17 @@ for i in range(0, len(coins)):
 
 for i in found:
     print(i)
+
+# coins = [1,2,5]
+#
+# found = []
+#
+# x = 0
+#
+# while x < 4:
+#     combo = [0, 0, 0]
+#
+#     for i in range(len(coins)):
+#         combo[i] += i
+#
+#     x += 1
